@@ -1,0 +1,8 @@
+@media(min-width:768px){
+    .news-group{
+        width: 50%;
+    }
+}
+#learn-box,#learn-angular{
+    border-radius: 10px;
+}
